@@ -1,0 +1,2 @@
+# AnyManagerGAMAdapter
+GAM Custom Event
